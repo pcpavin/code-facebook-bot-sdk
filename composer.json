@@ -1,0 +1,18 @@
+{
+    "name": "pcpavin/facebook-bot-sdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "pcpavin",
+            "email": "pcpavin@artit.com.br"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeBot\\": "src"
+        }
+    }
+}
